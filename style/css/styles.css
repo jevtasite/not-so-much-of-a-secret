@@ -24,7 +24,7 @@ body {
 }
 
 .header_text {
-    font-family: 'Rubik'; 
+    font-family: 'Arial'; 
     text-align: center;
     font-size: 45px;
     font-weight: bold;
@@ -49,7 +49,7 @@ body {
     text-align: center;
     display: inline-block;
     font-size: 16px;
-    font-family: 'Rubik';
+    font-family: 'Arial';
     margin: 4px 2px;
     cursor: pointer;
     border: none;
